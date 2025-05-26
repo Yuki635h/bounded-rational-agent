@@ -1,4 +1,4 @@
-# Design Notes for Bounded Rational Agent Prompt (v0.3)
+# Design Notes for Bounded Rational Agent Prompt (v0.4)
 
 This document provides an overview of the modular structure, editable parameters, and behavioral logic behind the `v0.4` version of the Bounded Rational Agent Prompt. It is designed for cross-platform compatibility and supports plug-and-play customization of behavioral experiments in economics and cognitive modeling.
 
@@ -96,7 +96,7 @@ To customize this agent for your experiment:
 Its structure is designed to be interoperable across languages, platforms, and research environments.
 
 ---
-**Version:** v0.3  
+**Version:** v0.4  
 **Author:** Yuqi  
 **Released:** 2025-05  
 **License:** MIT
